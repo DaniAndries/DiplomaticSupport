@@ -33,10 +33,10 @@
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/usuario/simulador-negociaciones.git
+git clone https://github.com/DaniAndries/DiplomaticSupport.git
 
 # 2. Navega al directorio
-cd simulador-negociaciones
+cd DiplomaticSupport
 
 # 3. Configura un entorno virtual (recomendado)
 python -m venv venv
