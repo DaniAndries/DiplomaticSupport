@@ -111,5 +111,3 @@ Este proyecto está licenciado bajo la **Licencia MIT** - consulta el archivo [L
 ---
 
 ### 🌟 ¡Gracias por participar en esta experiencia diplomática virtual! 🤝🌍
-
-*Desarrollado con pasión por el equipo de Simulaciones Internacionales*
