@@ -65,11 +65,11 @@ Durante la simulación, se genera una tabla dinámica que muestra el progreso de
 
 | Ronda | País 1 | Confianza País 1 | País 2  | Confianza País 2 | Acción País 1 | Acción País 2 |
 |-------|--------|------------------|---------|------------------|---------------|---------------|
-| 1     | EE.UU. | 75               | Ucrania | 65               | Compromiso    | Exigir más    |
-| 2     | EE.UU. | 70               | Ucrania | 70               | Exigir más    | Compromiso    |
-| 3     | EE.UU. | 65               | Ucrania | 75               | Compromiso    | Compromiso    |
-| 4     | EE.UU. | 70               | Ucrania | 80               | Compromiso    | Compromiso    |
-| 5     | EE.UU. | 75               | Ucrania | 85               | Compromiso    | Compromiso    |
+| 1     | EE.UU. | 75               | Ucrania | 65               | Ceder         | Exigencia     |
+| 2     | EE.UU. | 70               | Ucrania | 70               | Exigencia     | Ceder         |
+| 3     | EE.UU. | 65               | Ucrania | 75               | Ceder         | Ceder         |
+| 4     | EE.UU. | 70               | Ucrania | 80               | Ceder         | Ceder         |
+| 5     | EE.UU. | 75               | Ucrania | 85               | Ceder         | Ceder         |
 | Final | -      | **¡Acuerdo alcanzado!** | - | -               | -             | -             |
 
 ### 🎭 **Escenario de intervención periodística:**
