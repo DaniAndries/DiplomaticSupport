@@ -70,7 +70,6 @@ Durante la simulación, se genera una tabla dinámica que muestra el progreso de
 | 3     | EE.UU. | 65               | Ucrania | 75               | Ceder         | Ceder         |
 | 4     | EE.UU. | 70               | Ucrania | 80               | Ceder         | Ceder         |
 | 5     | EE.UU. | 75               | Ucrania | 85               | Ceder         | Ceder         |
-| Final | -      | **¡Acuerdo alcanzado!** | - | -               | -             | -             |
 
 ### 🎭 **Escenario de intervención periodística:**
 
