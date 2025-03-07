@@ -1,0 +1,132 @@
+{
+  "negotiations": {
+    "polite_response": [
+      "The negotiation was constructive, and we made progress on key points.",
+      "Both parties worked together to move toward solutions that benefit everyone.",
+      "The process was long, but we achieved significant progress that will allow both nations to thrive.",
+      "We discussed many complex topics, but both countries reached a common understanding on key points.",
+      "The dialogue was respectful and serious, focused on positive results for both parties.",
+      "We were able to find common ground, although it required a lot of effort from both sides.",
+      "The negotiations, though difficult, were productive, and we made significant progress.",
+      "Both countries made a joint effort to resolve the conflicting points.",
+      "The dialogue was long but fruitful. Both countries moved toward mutual understanding.",
+      "Both countries made strides forward and found solutions to several sensitive issues."
+    ],
+    "aggressive_response": [
+      "The negotiations were complicated, but we reached an agreement.",
+      "It was tough, but we got an agreement. It's not everything we wanted, but it works.",
+      "It wasn't easy, but if you wanted a perfect agreement, you wouldn't get it. At least we made progress.",
+      "There were a lot of issues, but we solved them our way. That's what matters.",
+      "Not all negotiations are clean, but in the end, we got an agreement.",
+      "We did the best we could. It wasn't easy, but in the end, it worked out.",
+      "They said it would be difficult, and they were right. But at least now we have something.",
+      "There were differences, but in the end, it wasn't that important. What matters is that we reached an agreement.",
+      "There were many differences, but in the end, we did what we had to do to close the deal. That's what counts.",
+      "There were difficulties, but in the end, the deal was done. That's all that matters."
+    ]
+  },
+  "disagreement": {
+    "polite_response": [
+      "There were disagreements, but both parties are willing to continue working to find solutions.",
+      "It's natural to have disagreements in negotiations. We will continue working to resolve the differences.",
+      "In any negotiation, there are points where we don't agree, but what's important is to keep moving forward.",
+      "Disagreements are a natural part of the process. It's a challenge, but we'll work to overcome it.",
+      "Each side had their viewpoints, but we always tried to find a solution that benefits everyone.",
+      "Disagreements are part of the process, but we always aim to find solutions in everyone's best interest.",
+      "There were disagreements, but there was always a willingness to reach a mutual understanding.",
+      "Disagreements are part of every negotiation, but both parties made the effort to come to an agreement.",
+      "The disagreement is part of the negotiation process, but we worked hard to overcome it.",
+      "There will always be differences in negotiations, but it's positive that both sides are committed to continuing the dialogue."
+    ],
+    "aggressive_response": [
+      "Of course, there were disagreements. Who expected it to be easy? The important thing is we reached an agreement.",
+      "There were disagreements, sure. But in the end, it wasn't that important. What matters is that it got resolved.",
+      "Obviously, there were disagreements. But in the end, everything was made clear. No need to keep discussing what's already solved.",
+      "There will always be disagreements. But in the end, we reached an agreement, and that's all that matters.",
+      "Disagreements? Of course. But the bottom line is, we reached an agreement. That's what matters.",
+      "Disagreements? Sure, but that doesn't matter now. What matters is that we reached an agreement.",
+      "Of course, there were disagreements, but what matters is that it's resolved. No need to keep going over it.",
+      "There are always disagreements. But what counts is that it's resolved, and that's it.",
+      "Yes, there were disagreements. And what? The deal is done, and that's all that matters.",
+      "Disagreements are over. Now we're focused on the agreement reached, and that's what counts."
+    ]
+  },
+  "attire": {
+    "polite_response": [
+      "The attire is formal, in accordance with the importance of the event and the context of the negotiation.",
+      "We chose professional attire to reflect respect for the event and the participants.",
+      "The attire was chosen with seriousness, reflecting professionalism and respect for such an important event.",
+      "The attire was selected to reflect the formality of the meeting, in line with the purpose of the negotiation.",
+      "We made sure to dress appropriately for the occasion to show the proper respect.",
+      "It's important to project professionalism and seriousness during negotiations, which is why the attire was carefully chosen.",
+      "We chose attire suitable for the occasion to reflect the seriousness of the event.",
+      "The attire reflects the importance of the event and our willingness to work toward a beneficial agreement.",
+      "We selected formal clothing for the occasion. We want to ensure the event is handled with the respect it deserves.",
+      "The attire is appropriate for the context of this important negotiation. We made sure to be up to the task."
+    ],
+    "aggressive_response": [
+      "Attire doesn't matter. What matters is what we achieved here, not what we're wearing.",
+      "Attire? Is that really what's important? What matters is the outcome of the negotiation, not how we dress.",
+      "The attire isn't relevant. What matters is what we've achieved in the negotiations, not how we dress.",
+      "Attire? What really matters is what we did, not how we look.",
+      "Attire is irrelevant. What counts is what was achieved at the negotiating table, not how we dress.",
+      "Attire doesn't matter. If you thought that would be relevant, you're wrong.",
+      "What matters is the result. We shouldn't be distracted by trivial things like attire.",
+      "Attire? What matters is what was achieved. The rest is just a distraction.",
+      "Attire is the least of our concerns. What matters is what was achieved in the negotiations.",
+      "What difference does the attire make? The important thing is what was achieved during the negotiations."
+    ]
+  },
+  "progress": {
+    "polite_response": [
+      "We are happy with the progress made, although there's always room for improvement.",
+      "There has been significant progress. We are committed to continuing to work on the details.",
+      "We are making progress, though there is still work to be done. But we are confident the best result will be achieved.",
+      "It's important to recognize the progress, even though we know there's still work to be done.",
+      "The progress made so far is encouraging, but we will continue working to achieve the best possible solution.",
+      "Negotiations have progressed, but we are committed to continuing to work on the details that remain.",
+      "Although there are still aspects to resolve, the progress made is significant, and we're moving in the right direction.",
+      "We've made good progress, and we're focused on continuing to work on the remaining issues.",
+      "Progress is being made, and we continue to engage with both parties to finalize all points.",
+      "We are pleased with the progress but recognize there are still challenges to overcome."
+    ],
+    "aggressive_response": [
+      "There was progress, but don't expect everything to be perfect. The negotiation was tough, but progress was made.",
+      "Yes, there was some progress, but not everything turned out as we hoped. Is that satisfactory?",
+      "Progress, yes. But not everything went as planned. At least we moved forward, what else do you want?",
+      "Yes, there was progress. What did you expect, that everything would be perfect? It wasn't, but we moved forward.",
+      "There was some progress, but it wasn't easy. If you thought it would be quick and simple, you were wrong.",
+      "Progress, sure. But don't get your hopes up that everything went smoothly.",
+      "Some progress was made, but that's about it. We're not here for a fairy tale.",
+      "There was progress, but don't expect us to solve everything in one meeting.",
+      "Yes, progress. But it's not over yet. There’s more work to do.",
+      "We made progress. That's it. Everything else will happen in time."
+    ]
+  },
+  "agreement": {
+    "polite_response": [
+      "The agreement is a positive step forward for both countries and will help improve relations.",
+      "This agreement is a solid foundation, and we will continue to work toward its full implementation.",
+      "The agreement is a step in the right direction, and both sides are committed to fulfilling the terms.",
+      "This agreement is a positive result, but there’s still work to do to fully implement it.",
+      "This agreement reflects the hard work of both sides, and we look forward to the next steps.",
+      "We reached an agreement that benefits both nations, but we recognize that the implementation phase will be challenging.",
+      "The agreement is a strong starting point, and both sides are committed to ensuring its success.",
+      "This agreement is a sign of progress, and we will continue working to fulfill all aspects of it.",
+      "We’re pleased with the outcome, and this agreement will open doors for future collaboration.",
+      "The agreement reached is a good foundation, but we will continue working to refine the details."
+    ],
+    "aggressive_response": [
+      "We signed the deal. It's not perfect, but at least something was done.",
+      "We got an agreement. Not everything we wanted, but at least we have something to show.",
+      "The deal is done. If you wanted more, too bad. It’s done.",
+      "The deal is signed. It's done. No need to keep discussing it.",
+      "It’s signed. It might not be perfect, but at least we reached an agreement.",
+      "The deal is done. Don't expect everything to go smoothly from here. It's not going to be easy.",
+      "At least we have something. It's not everything, but it's better than nothing.",
+      "The deal is done. Now we can move on.",
+      "We signed the agreement. Let’s not pretend it’s perfect, but it's done.",
+      "It’s signed, and that's all we need. Everything else will work itself out."
+    ]
+  }
+}
