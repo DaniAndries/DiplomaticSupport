@@ -642,6 +642,7 @@
 2025-03-07 12:48:57,125 - simpleExample - INFO - Ukraine ha hecho una exigencia y pierde confianza ahora tiene 37
 2025-03-07 12:48:57,125 - simpleExample - INFO - Ukraine ha hecho una exigencia y pierde confianza ahora tiene 37
 2025-03-07 12:48:57,125 - simpleExample - INFO - Ukraine ha hecho una exigencia y pierde confianza ahora tiene 37
+<<<<<<< Updated upstream
 2025-03-07 13:31:21,040 - simpleExample - INFO - La Vanguardia pregunta: & C:/Users/Usuario/Documents/DiplomaticSupport/.venv/Scripts/python.exe c:/Users/Usuario/Documents/DiplomaticSupport/App.py
 2025-03-07 13:31:21,040 - simpleExample - INFO - La Vanguardia pregunta: & C:/Users/Usuario/Documents/DiplomaticSupport/.venv/Scripts/python.exe c:/Users/Usuario/Documents/DiplomaticSupport/App.py
 2025-03-07 13:31:21,040 - simpleExample - INFO - La Vanguardia pregunta: & C:/Users/Usuario/Documents/DiplomaticSupport/.venv/Scripts/python.exe c:/Users/Usuario/Documents/DiplomaticSupport/App.py
@@ -687,3 +688,11 @@
 2025-03-07 13:31:38,719 - simpleExample - INFO - Ukraine ha hecho una exigencia y pierde confianza ahora tiene 30
 2025-03-07 13:31:38,719 - simpleExample - INFO - Ukraine ha hecho una exigencia y pierde confianza ahora tiene 30
 2025-03-07 13:31:38,719 - simpleExample - INFO - Ukraine ha hecho una exigencia y pierde confianza ahora tiene 30
+=======
+2025-03-07 13:34:02,851 - simpleExample - INFO - --------------------------Iniciando programa--------------------------
+2025-03-07 13:34:02,851 - simpleExample - INFO - --------------------------Iniciando programa--------------------------
+2025-03-07 13:34:02,851 - simpleExample - INFO - --------------------------Iniciando programa--------------------------
+2025-03-07 13:34:02,851 - simpleExample - INFO - Inicializando País 1
+2025-03-07 13:34:02,851 - simpleExample - INFO - Inicializando País 1
+2025-03-07 13:34:02,851 - simpleExample - INFO - Inicializando País 1
+>>>>>>> Stashed changes

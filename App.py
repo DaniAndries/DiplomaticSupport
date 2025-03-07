@@ -12,14 +12,34 @@ translator = GoogleTranslator(source="auto", target="es")
 # Para crear la prettytable
 table = PrettyTable()
 table.set_style(TableStyle.ORGMODE)
-table.field_names = ["Nombre", "Confianza"]
-def actualizar_tabla(pais: str, confianza: float):
-    for i, row in enumerate(table._rows):
-        if row[0] == pais:  # Si el país ya existe, actualiza la confianza
-            table._rows[i] = [pais, confianza]
-            return
-    table.add_row([pais, confianza])
+# table.field_names = ["Nombre", "Confianza"]
+table.field_names = [
+    "Ronda", "País 1", "Confianza País 1", "País 2", "Confianza País 2",
+    "Acción País 1", "Acción País 2", "Confianza Total"
+]
 
+table.align["Ronda"] = "c"
+table.align["País 1"] = "l"
+table.align["Confianza País 1"] = "c"
+table.align["País 2"] = "l"
+table.align["Confianza País 2"] = "c"
+table.align["Acción País 1"] = "l"
+table.align["Acción País 2"] = "l"
+table.align["Confianza Total"] = "c"
+rondas = 0
+
+# def actualizar_tabla(pais: str, confianza: float):
+#     for i, row in enumerate(table._rows):
+#         if row[0] == pais:  # Si el país ya existe, actualiza la confianza
+#             table._rows[i] = [pais, confianza]
+#             return
+#     table.add_row([pais, confianza])
+
+def actualizar_tabla(ronda, pais1, confianza1, pais2, confianza2, accion1, accion2, confianza_total):
+    table.add_row([
+        ronda, pais1, confianza1, pais2, confianza2, accion1, accion2, confianza_total
+    ])
+    
 # Funcion principal del programa
 def main():
     logger.info("--------------------------Iniciando programa--------------------------")    
@@ -44,7 +64,7 @@ def iniciar_negociaciones():
                 print(table)
                 raise Warning("Confianza máxima alcanzada, acuerdo completado")
 
-            negociaciones(pais1, pais2, False)
+            negociaciones(pais1, pais2, False, rondas)
             time.sleep(1)
 
         logger.info("A partir de ahora responderemos a las posibles preguntas y al final de cada reunión")
@@ -57,7 +77,7 @@ def iniciar_negociaciones():
         logger.info(warning)
         print(warning)
 # Se hace que cada pais aleatoriamente haga una accion aleatoria
-def negociaciones(pais1: Participante, pais2: Participante, preguntas: bool):
+def negociaciones(pais1: Participante, pais2: Participante, preguntas: bool, rondas: int):
     try:
         print(table)
         elegirPais = random.randrange(2)
@@ -69,6 +89,7 @@ def negociaciones(pais1: Participante, pais2: Participante, preguntas: bool):
         # Hacemos que si las preguntas estan activadas tengan un 20% de posibilidad de que se hagan preguntas de los periodistas
         if numero < 50 and preguntas:
             entrevista(pais1, pais2)
+        rondas+=1
     except Warning as warning:
         raise warning
 
