@@ -15,6 +15,7 @@ class Participante:
 
     # "To-String"
     def __str__(self):
+        #print()
         return f"Pais: {self.pais}, Confianza: {self.confianza}"
     
     # Asignamos un número aleatorio entre 50 y 100 para la confianza 
