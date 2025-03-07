@@ -1,0 +1,298 @@
+2025/03/07 17:20:42 | --------------------------Iniciando programa--------------------------
+2025/03/07 17:20:42 | Inicializando País 1
+2025/03/07 17:20:42 | Inicializando País 2
+2025/03/07 17:20:42 | EEUU ha cedido ante una exigencia y Spain gana confianza ahora tiene 64
+2025/03/07 17:20:43 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 59
+2025/03/07 17:20:44 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 58
+2025/03/07 17:20:45 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 53
+2025/03/07 17:20:46 | A partir de ahora responderemos a las posibles preguntas y al final de cada reunión
+2025/03/07 17:20:46 | EEUU ha cedido ante una exigencia y Spain gana confianza ahora tiene 64
+2025/03/07 17:20:47 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 48
+2025/03/07 17:22:07 | --------------------------Iniciando programa--------------------------
+2025/03/07 17:22:07 | Inicializando País 1
+2025/03/07 17:22:07 | Inicializando País 2
+2025/03/07 17:22:07 | Spain ha hecho una exigencia y Ukraine pierde confianza ahora tiene 46
+2025/03/07 17:22:08 | Spain ha cedido ante una exigencia y Ukraine gana confianza ahora tiene 51
+2025/03/07 17:22:09 | Ukraine ha cedido ante una exigencia y Spain gana confianza ahora tiene 73
+2025/03/07 17:22:10 | Ukraine ha cedido ante una exigencia y Spain gana confianza ahora tiene 78
+2025/03/07 17:22:11 | A partir de ahora responderemos a las posibles preguntas y al final de cada reunión
+2025/03/07 17:22:11 | Ukraine ha cedido ante una exigencia y Spain gana confianza ahora tiene 83
+2025/03/07 17:22:59 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:22:59 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=How+do+you+assess+the+progress+of+the+project%3F HTTP/1.1" 200 None
+2025/03/07 17:22:59 | La Vanguardia pregunta: How do you assess the progress of the project?
+2025/03/07 17:22:59 | Ukraine responde: Some progress was made, but that's about it. We're not here for a fairy tale.
+2025/03/07 17:22:59 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:23:00 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=Some+progress+was+made%2C+but+that%27s+about+it.+We%27re+not+here+for+a+fairy+tale. HTTP/1.1" 200 None
+2025/03/07 17:23:01 | Ukraine ha cedido ante una exigencia y Spain gana confianza ahora tiene 88
+2025/03/07 17:23:02 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:23:02 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=How+do+you+assess+the+progress+of+the+project%3F HTTP/1.1" 200 None
+2025/03/07 17:23:02 | The Wall Street Journal pregunta: How do you assess the progress of the project?
+2025/03/07 17:23:02 | Ukraine responde: There was progress, but don't expect us to solve everything in one meeting.
+2025/03/07 17:23:02 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:23:03 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=There+was+progress%2C+but+don%27t+expect+us+to+solve+everything+in+one+meeting. HTTP/1.1" 200 None
+2025/03/07 17:23:04 | Ukraine ha hecho una exigencia y Spain pierde confianza ahora tiene 83
+2025/03/07 17:23:55 | --------------------------Iniciando programa--------------------------
+2025/03/07 17:23:55 | Inicializando País 1
+2025/03/07 17:23:55 | Inicializando País 2
+2025/03/07 17:23:55 | EEUU ha cedido ante una exigencia y Ukraine gana confianza ahora tiene 69
+2025/03/07 17:23:56 | EEUU ha hecho una exigencia y Ukraine pierde confianza ahora tiene 64
+2025/03/07 17:23:57 | Ukraine ha salido y pierde toda su confianza ahora tiene 0
+2025/03/07 17:24:03 | --------------------------Iniciando programa--------------------------
+2025/03/07 17:24:03 | Inicializando País 1
+2025/03/07 17:24:03 | Inicializando País 2
+2025/03/07 17:24:03 | EXIGIR
+2025/03/07 17:24:03 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 37
+2025/03/07 17:24:04 | EXIGIR
+2025/03/07 17:24:04 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 62
+2025/03/07 17:24:05 | EXIGIR
+2025/03/07 17:24:05 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 32
+2025/03/07 17:24:06 | CEDER
+2025/03/07 17:24:06 | EEUU ha cedido ante una exigencia y Spain gana confianza ahora tiene 37
+2025/03/07 17:24:07 | A partir de ahora responderemos a las posibles preguntas y al final de cada reunión
+2025/03/07 17:24:07 | CEDER
+2025/03/07 17:24:07 | Spain ha cedido ante una exigencia y EEUU gana confianza ahora tiene 67
+2025/03/07 17:24:12 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:24:12 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=How+do+you+assess+the+progress+of+the+project%3F HTTP/1.1" 200 None
+2025/03/07 17:24:12 | The New York Times pregunta: How do you assess the progress of the project?
+2025/03/07 17:24:12 | Spain responde: Progress, sure. But don't get your hopes up that everything went smoothly.
+2025/03/07 17:24:12 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:24:13 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=Progress%2C+sure.+But+don%27t+get+your+hopes+up+that+everything+went+smoothly. HTTP/1.1" 200 None
+2025/03/07 17:24:14 | EXIGIR
+2025/03/07 17:24:14 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 32
+2025/03/07 17:25:12 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:25:12 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=%C2%BFC%C3%B3mo+eval%C3%BAa+el+progreso+del+proyecto%3F HTTP/1.1" 200 None
+2025/03/07 17:25:12 | La Vanguardia pregunta: How do you evaluate project progress?
+2025/03/07 17:25:12 | EEUU responde: We've made good progress, and we're focused on continuing to work on the remaining issues.
+2025/03/07 17:25:12 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:25:12 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=We%27ve+made+good+progress%2C+and+we%27re+focused+on+continuing+to+work+on+the+remaining+issues. HTTP/1.1" 200 None
+2025/03/07 17:25:14 | CEDER
+2025/03/07 17:25:14 | Spain ha cedido ante una exigencia y EEUU gana confianza ahora tiene 72
+2025/03/07 17:25:15 | EXIGIR
+2025/03/07 17:25:15 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 67
+2025/03/07 17:25:16 | CEDER
+2025/03/07 17:25:16 | EEUU ha cedido ante una exigencia y Spain gana confianza ahora tiene 37
+2025/03/07 17:25:18 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:25:18 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=%C2%BFC%C3%B3mo+eval%C3%BAa+el+progreso+del+proyecto%3F HTTP/1.1" 200 None
+2025/03/07 17:25:18 | The Times pregunta: How do you evaluate project progress?
+2025/03/07 17:25:18 | Spain responde: We made progress. That's it. Everything else will happen in time.
+2025/03/07 17:25:18 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:25:18 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=We+made+progress.+That%27s+it.+Everything+else+will+happen+in+time. HTTP/1.1" 200 None
+2025/03/07 17:25:19 | CEDER
+2025/03/07 17:25:19 | Spain ha cedido ante una exigencia y EEUU gana confianza ahora tiene 72
+2025/03/07 17:25:38 | --------------------------Iniciando programa--------------------------
+2025/03/07 17:25:38 | Inicializando País 1
+2025/03/07 17:25:38 | Inicializando País 2
+2025/03/07 17:25:38 | EXIGIR
+2025/03/07 17:25:38 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 65
+2025/03/07 17:25:39 | EXIGIR
+2025/03/07 17:25:39 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 51
+2025/03/07 17:25:40 | CEDER
+2025/03/07 17:25:40 | EEUU ha cedido ante una exigencia y Spain gana confianza ahora tiene 70
+2025/03/07 17:25:41 | CEDER
+2025/03/07 17:25:41 | Spain ha cedido ante una exigencia y EEUU gana confianza ahora tiene 56
+2025/03/07 17:25:42 | A partir de ahora responderemos a las posibles preguntas y al final de cada reunión
+2025/03/07 17:25:42 | EXIGIR
+2025/03/07 17:25:42 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 65
+2025/03/07 17:25:43 | EXIGIR
+2025/03/07 17:25:43 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 51
+2025/03/07 17:25:48 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:25:48 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=%C2%BFC%C3%B3mo+eval%C3%BAa+el+progreso+del+proyecto%3F HTTP/1.1" 200 None
+2025/03/07 17:25:48 | La Vanguardia pregunta: How do you evaluate project progress?
+2025/03/07 17:25:48 | EEUU responde: Yes, progress. But it's not over yet. There’s more work to do.
+2025/03/07 17:25:48 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:25:48 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=Yes%2C+progress.+But+it%27s+not+over+yet.+There%E2%80%99s+more+work+to+do. HTTP/1.1" 200 None
+2025/03/07 17:25:49 | CEDER
+2025/03/07 17:25:49 | EEUU ha cedido ante una exigencia y Spain gana confianza ahora tiene 70
+2025/03/07 17:37:29 | --------------------------Iniciando programa--------------------------
+2025/03/07 17:37:29 | Inicializando Pais 1
+2025/03/07 17:37:29 | Inicializando Pais 2
+2025/03/07 17:37:29 | Ukraine ha cedido ante una exigencia y Spain gana confianza ahora tiene 69
+2025/03/07 17:37:30 | Spain ha hecho una exigencia y Ukraine pierde confianza ahora tiene 40
+2025/03/07 17:37:31 | Ukraine ha cedido ante una exigencia y Spain gana confianza ahora tiene 74
+2025/03/07 17:37:32 | Spain ha cedido ante una exigencia y Ukraine gana confianza ahora tiene 45
+2025/03/07 17:37:33 | A partir de ahora responderemos a las posibles preguntas y al final de cada reunión
+2025/03/07 17:37:33 | Ukraine ha hecho una exigencia y Spain pierde confianza ahora tiene 69
+2025/03/07 17:37:41 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:37:41 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=que+opinas+de+los+moros%3F HTTP/1.1" 200 None
+2025/03/07 17:37:41 | El País pregunta: What do you think of the Moors?
+2025/03/07 17:37:41 | Spain responde: Yes, there was progress. What did you expect, that everything would be perfect? It wasn't, but we moved forward.
+2025/03/07 17:37:41 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:37:41 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=Yes%2C+there+was+progress.+What+did+you+expect%2C+that+everything+would+be+perfect%3F+It+wasn%27t%2C+but+we+moved+forward. HTTP/1.1" 200 None
+2025/03/07 17:37:43 | Spain ha cedido ante una exigencia y Ukraine gana confianza ahora tiene 50
+2025/03/07 17:37:44 | Spain ha cedido ante una exigencia y Ukraine gana confianza ahora tiene 55
+2025/03/07 17:37:45 | Spain ha hecho una exigencia y Ukraine pierde confianza ahora tiene 50
+2025/03/07 17:37:46 | Spain ha cedido ante una exigencia y Ukraine gana confianza ahora tiene 55
+2025/03/07 17:45:19 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:45:20 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=%26+C%3A%2FUsers%2FUsuario%2FDocuments%2FDiplomaticSupport%2F.venv%2FScripts%2Fpython.exe+c%3A%2FUsers%2FUsuario%2FDocuments%2FDiplomaticSupport%2FApp.py HTTP/1.1" 200 None
+2025/03/07 17:45:20 | The Wall Street Journal pregunta: & C:/Users/Usuario/Documents/DiplomaticSupport/.venv/Scripts/python.exe c:/Users/Usuario/Documents/DiplomaticSupport/App.py
+2025/03/07 17:45:20 | Spain responde: Disagreements are part of every negotiation, but both parties made the effort to come to an agreement.
+2025/03/07 17:45:20 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:45:20 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=Disagreements+are+part+of+every+negotiation%2C+but+both+parties+made+the+effort+to+come+to+an+agreement. HTTP/1.1" 200 None
+2025/03/07 17:45:21 | Spain ha cedido ante una exigencia y Ukraine gana confianza ahora tiene 60
+2025/03/07 17:45:25 | --------------------------Iniciando programa--------------------------
+2025/03/07 17:45:25 | Inicializando Pais 1
+2025/03/07 17:45:25 | Inicializando Pais 2
+2025/03/07 17:45:25 | EEUU ha cedido ante una exigencia y Spain gana confianza ahora tiene 56
+2025/03/07 17:45:26 | EEUU ha salido y pierde toda su confianza ahora tiene 0
+2025/03/07 17:45:26 | SALIR
+2025/03/07 17:45:30 | --------------------------Iniciando programa--------------------------
+2025/03/07 17:45:30 | Inicializando Pais 1
+2025/03/07 17:45:30 | Inicializando Pais 2
+2025/03/07 17:45:30 | EEUU ha cedido ante una exigencia y Spain gana confianza ahora tiene 53
+2025/03/07 17:45:31 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 53
+2025/03/07 17:45:32 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 48
+2025/03/07 17:45:33 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 43
+2025/03/07 17:45:34 | A partir de ahora responderemos a las posibles preguntas y al final de cada reunión
+2025/03/07 17:45:34 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 38
+2025/03/07 17:45:35 | EEUU ha salido y pierde toda su confianza ahora tiene 0
+2025/03/07 17:45:35 | SALIR
+2025/03/07 17:46:16 | --------------------------Iniciando programa--------------------------
+2025/03/07 17:46:16 | Inicializando Pais 1
+2025/03/07 17:46:16 | Inicializando Pais 2
+2025/03/07 17:46:16 | EEUU ha cedido ante una exigencia y Ukraine gana confianza ahora tiene 62
+2025/03/07 17:46:17 | Ukraine ha cedido ante una exigencia y EEUU gana confianza ahora tiene 72
+2025/03/07 17:46:18 | Ukraine ha salido y pierde toda su confianza ahora tiene 0
+2025/03/07 17:46:18 | SALIR
+2025/03/07 17:49:17 | --------------------------Iniciando programa--------------------------
+2025/03/07 17:49:17 | Inicializando Pais 1
+2025/03/07 17:49:17 | Inicializando Pais 2
+2025/03/07 17:49:17 | Ukraine ha cedido ante una exigencia y EEUU gana confianza ahora tiene 52
+2025/03/07 17:49:18 | Ukraine ha hecho una exigencia y EEUU pierde confianza ahora tiene 47
+2025/03/07 17:49:19 | EEUU ha hecho una exigencia y Ukraine pierde confianza ahora tiene 64
+2025/03/07 17:49:20 | EEUU ha cedido ante una exigencia y Ukraine gana confianza ahora tiene 69
+2025/03/07 17:49:21 | A partir de ahora responderemos a las posibles preguntas y al final de cada reunión
+2025/03/07 17:49:21 | EEUU ha cedido ante una exigencia y Ukraine gana confianza ahora tiene 74
+2025/03/07 17:50:00 | --------------------------Iniciando programa--------------------------
+2025/03/07 17:50:00 | Inicializando Pais 1
+2025/03/07 17:50:00 | Inicializando Pais 2
+2025/03/07 17:50:00 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 56
+2025/03/07 17:50:01 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 51
+2025/03/07 17:50:02 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 46
+2025/03/07 17:50:03 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 41
+2025/03/07 17:50:04 | A partir de ahora responderemos a las posibles preguntas y al final de cada reunión
+2025/03/07 17:50:04 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 54
+2025/03/07 17:50:05 | Spain ha cedido ante una exigencia y EEUU gana confianza ahora tiene 59
+2025/03/07 17:50:06 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 36
+2025/03/07 17:57:57 | --------------------------Iniciando programa--------------------------
+2025/03/07 17:57:57 | Inicializando Pais 1
+2025/03/07 17:57:57 | Inicializando Pais 2
+2025/03/07 17:57:57 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 64
+2025/03/07 17:57:58 | EEUU ha cedido ante una exigencia y Spain gana confianza ahora tiene 69
+2025/03/07 17:57:59 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 64
+2025/03/07 17:58:00 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 59
+2025/03/07 17:58:01 | A partir de ahora responderemos a las posibles preguntas y al final de cada reunión
+2025/03/07 17:58:01 | EEUU ha cedido ante una exigencia y Spain gana confianza ahora tiene 74
+2025/03/07 17:58:06 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:06 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=How+do+you+assess+the+progress+of+the+project%3F HTTP/1.1" 200 None
+2025/03/07 17:58:06 | The Washington Post pregunta: How do you assess the progress of the project?
+2025/03/07 17:58:06 | Spain responde: Progress, yes. But not everything went as planned. At least we moved forward, what else do you want?
+2025/03/07 17:58:06 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:07 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=Progress%2C+yes.+But+not+everything+went+as+planned.+At+least+we+moved+forward%2C+what+else+do+you+want%3F HTTP/1.1" 200 None
+2025/03/07 17:58:07 | AGRESIVO
+2025/03/07 17:58:08 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 59
+2025/03/07 17:58:09 | Spain ha cedido ante una exigencia y EEUU gana confianza ahora tiene 64
+2025/03/07 17:58:10 | Spain ha cedido ante una exigencia y EEUU gana confianza ahora tiene 69
+2025/03/07 17:58:11 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:11 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=How+do+you+assess+the+progress+of+the+project%3F HTTP/1.1" 200 None
+2025/03/07 17:58:11 | El Mundo pregunta: How do you assess the progress of the project?
+2025/03/07 17:58:11 | Spain responde: We are pleased with the progress but recognize there are still challenges to overcome.
+2025/03/07 17:58:11 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:11 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=We+are+pleased+with+the+progress+but+recognize+there+are+still+challenges+to+overcome. HTTP/1.1" 200 None
+2025/03/07 17:58:13 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 64
+2025/03/07 17:58:14 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 59
+2025/03/07 17:58:15 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:15 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=How+do+you+assess+the+progress+of+the+project%3F HTTP/1.1" 200 None
+2025/03/07 17:58:15 | La Razón pregunta: How do you assess the progress of the project?
+2025/03/07 17:58:15 | Spain responde: Progress, yes. But not everything went as planned. At least we moved forward, what else do you want?
+2025/03/07 17:58:15 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:15 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=Progress%2C+yes.+But+not+everything+went+as+planned.+At+least+we+moved+forward%2C+what+else+do+you+want%3F HTTP/1.1" 200 None
+2025/03/07 17:58:15 | AGRESIVO
+2025/03/07 17:58:16 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 44
+2025/03/07 17:58:17 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 39
+2025/03/07 17:58:18 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:18 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=How+do+you+assess+the+progress+of+the+project%3F HTTP/1.1" 200 None
+2025/03/07 17:58:18 | ABC pregunta: How do you assess the progress of the project?
+2025/03/07 17:58:18 | Spain responde: There was progress, but don't expect everything to be perfect. The negotiation was tough, but progress was made.
+2025/03/07 17:58:18 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:19 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=There+was+progress%2C+but+don%27t+expect+everything+to+be+perfect.+The+negotiation+was+tough%2C+but+progress+was+made. HTTP/1.1" 200 None
+2025/03/07 17:58:20 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 54
+2025/03/07 17:58:21 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 34
+2025/03/07 17:58:22 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:22 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=How+do+you+assess+the+progress+of+the+project%3F HTTP/1.1" 200 None
+2025/03/07 17:58:22 | The Guardian pregunta: How do you assess the progress of the project?
+2025/03/07 17:58:22 | EEUU responde: There was progress, but don't expect us to solve everything in one meeting.
+2025/03/07 17:58:22 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:22 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=There+was+progress%2C+but+don%27t+expect+us+to+solve+everything+in+one+meeting. HTTP/1.1" 200 None
+2025/03/07 17:58:23 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 49
+2025/03/07 17:58:24 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 44
+2025/03/07 17:58:25 | Spain ha cedido ante una exigencia y EEUU gana confianza ahora tiene 49
+2025/03/07 17:58:26 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:26 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=How+do+you+assess+the+progress+of+the+project%3F HTTP/1.1" 200 None
+2025/03/07 17:58:26 | El País pregunta: How do you assess the progress of the project?
+2025/03/07 17:58:26 | EEUU responde: We've made good progress, and we're focused on continuing to work on the remaining issues.
+2025/03/07 17:58:26 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:26 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=We%27ve+made+good+progress%2C+and+we%27re+focused+on+continuing+to+work+on+the+remaining+issues. HTTP/1.1" 200 None
+2025/03/07 17:58:28 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 29
+2025/03/07 17:58:30 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:30 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=How+do+you+assess+the+progress+of+the+project%3F HTTP/1.1" 200 None
+2025/03/07 17:58:30 | The New York Times pregunta: How do you assess the progress of the project?
+2025/03/07 17:58:30 | EEUU responde: Progress, yes. But not everything went as planned. At least we moved forward, what else do you want?
+2025/03/07 17:58:30 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:30 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=Progress%2C+yes.+But+not+everything+went+as+planned.+At+least+we+moved+forward%2C+what+else+do+you+want%3F HTTP/1.1" 200 None
+2025/03/07 17:58:30 | AGRESIVO
+2025/03/07 17:58:31 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 24
+2025/03/07 17:58:32 | Spain ha cedido ante una exigencia y EEUU gana confianza ahora tiene 44
+2025/03/07 17:58:33 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:33 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=How+do+you+assess+the+progress+of+the+project%3F HTTP/1.1" 200 None
+2025/03/07 17:58:34 | The Wall Street Journal pregunta: How do you assess the progress of the project?
+2025/03/07 17:58:34 | Spain responde: Progress, sure. But don't get your hopes up that everything went smoothly.
+2025/03/07 17:58:34 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 17:58:34 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=Progress%2C+sure.+But+don%27t+get+your+hopes+up+that+everything+went+smoothly. HTTP/1.1" 200 None
+2025/03/07 17:58:35 | SALIR
+2025/03/07 18:00:28 | --------------------------Iniciando programa--------------------------
+2025/03/07 18:00:28 | Inicializando Pais 1
+2025/03/07 18:00:28 | Inicializando Pais 2
+2025/03/07 18:00:28 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 43
+2025/03/07 18:00:29 | EEUU ha cedido ante una exigencia y Spain gana confianza ahora tiene 50
+2025/03/07 18:00:30 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 38
+2025/03/07 18:00:31 | Spain ha hecho una exigencia y EEUU pierde confianza ahora tiene 33
+2025/03/07 18:00:32 | A partir de ahora responderemos a las posibles preguntas y al final de cada reunión
+2025/03/07 18:00:32 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 45
+2025/03/07 18:00:33 | EEUU ha cedido ante una exigencia y Spain gana confianza ahora tiene 50
+2025/03/07 18:00:41 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 18:00:42 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=How+do+you+assess+the+progress+of+the+project%3F HTTP/1.1" 200 None
+2025/03/07 18:00:42 | La Vanguardia pregunta: How do you assess the progress of the project?
+2025/03/07 18:00:42 | EEUU responde: There was some progress, but it wasn't easy. If you thought it would be quick and simple, you were wrong.
+2025/03/07 18:00:42 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 18:00:42 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=There+was+some+progress%2C+but+it+wasn%27t+easy.+If+you+thought+it+would+be+quick+and+simple%2C+you+were+wrong. HTTP/1.1" 200 None
+2025/03/07 18:00:43 | Spain ha cedido ante una exigencia y EEUU gana confianza ahora tiene 38
+2025/03/07 18:00:44 | EEUU ha cedido ante una exigencia y Spain gana confianza ahora tiene 55
+2025/03/07 18:00:46 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 18:00:46 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=How+do+you+assess+the+progress+of+the+project%3F HTTP/1.1" 200 None
+2025/03/07 18:00:46 | El País pregunta: How do you assess the progress of the project?
+2025/03/07 18:00:46 | EEUU responde: We are happy with the progress made, although there's always room for improvement.
+2025/03/07 18:00:46 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 18:00:46 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=We+are+happy+with+the+progress+made%2C+although+there%27s+always+room+for+improvement. HTTP/1.1" 200 None
+2025/03/07 18:00:57 | Spain ha cedido ante una exigencia y EEUU gana confianza ahora tiene 43
+2025/03/07 18:01:00 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 18:01:00 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=How+do+you+assess+the+progress+of+the+project%3F HTTP/1.1" 200 None
+2025/03/07 18:01:00 | The Wall Street Journal pregunta: How do you assess the progress of the project?
+2025/03/07 18:01:00 | Spain responde: There was progress, but don't expect us to solve everything in one meeting.
+2025/03/07 18:01:00 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 18:01:00 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=There+was+progress%2C+but+don%27t+expect+us+to+solve+everything+in+one+meeting. HTTP/1.1" 200 None
+2025/03/07 18:01:01 | Spain ha cedido ante una exigencia y EEUU gana confianza ahora tiene 48
+2025/03/07 18:01:02 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 18:01:02 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=How+do+you+assess+the+progress+of+the+project%3F HTTP/1.1" 200 None
+2025/03/07 18:01:02 | The New York Times pregunta: How do you assess the progress of the project?
+2025/03/07 18:01:02 | Spain responde: Progress is being made, and we continue to engage with both parties to finalize all points.
+2025/03/07 18:01:02 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/07 18:01:03 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=Progress+is+being+made%2C+and+we+continue+to+engage+with+both+parties+to+finalize+all+points. HTTP/1.1" 200 None
+2025/03/07 18:01:04 | EEUU ha salido y pierde toda su confianza ahora tiene 0
+2025/03/07 18:01:04 | El pais EEUU ha abandonado las negociaciones
+2025/03/07 18:06:15 | --------------------------Iniciando programa--------------------------
+2025/03/07 18:06:15 | Inicializando Pais 1
+2025/03/07 18:06:15 | Inicializando Pais 2
+2025/03/07 18:06:15 | EEUU ha hecho una exigencia y Spain pierde confianza ahora tiene 36
+2025/03/07 18:06:16 | Spain ha cedido ante una exigencia y EEUU gana confianza ahora tiene 50
+2025/03/07 18:06:17 | Spain ha salido y pierde toda su confianza ahora tiene 0
+2025/03/07 18:06:17 | El pais Spain ha abandonado las negociaciones

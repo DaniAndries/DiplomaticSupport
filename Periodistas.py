@@ -1,7 +1,8 @@
 import random
-from logger_config import setup_logger
 from deep_translator import GoogleTranslator
-logger = setup_logger()
+import logger as R 
+
+R.Logger("logs")
 translator = GoogleTranslator(source="auto", target="en")
 
 # Lista de periódicos
@@ -28,5 +29,5 @@ class Periodistas:
         pregunta = input(f"Pregunta de {self.nombre}: ")
         pregunta = translator.translate(pregunta)
         #pregunta = "How do you assess the progress of the project?"
-        logger.info(f"{self.nombre} pregunta: {pregunta}")
+        R.info(f"{self.nombre} pregunta: {pregunta}")
         return pregunta

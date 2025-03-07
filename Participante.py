@@ -1,21 +1,20 @@
 import random, json
 from entrenamiento import entrenamiento 
-from logger_config import setup_logger
-logger = setup_logger()
 
 clasificador = entrenamiento()
 
-listaPaises = ["EEUU", "Spain", "Ukraine"]
+listaPaises = ["EEUU", "ESPAÑA", "UCRANIA"]
 
 class Participante:
     # Constructor
-    def __init__(self, pais: str, confianza: float):
+    def __init__(self, pais: str, confianza: float, accion: str):
         self.pais = pais
         self.confianza = confianza
+        self.accion = accion
 
     # "To-String"
     def __str__(self):
-        return f"Pais: {self.pais}, Confianza: {self.confianza}"
+        return f"Pais: {self.pais}, Confianza: {self.confianza}, última acción: {self.accion}"
     
     # Asignamos un número aleatorio entre 50 y 100 para la confianza 
     @staticmethod
@@ -33,7 +32,6 @@ class Participante:
     @staticmethod
     def responder_a_pregunta(pregunta):
         categoria = clasificador.classify(pregunta)
-        
         return obtener_respuesta(categoria) or "I don't know what to say."
 
 # Coge la respuesta del JSON donde estan todas las respuestas posibles y analiza si son respuestas educadas o agresivas 
