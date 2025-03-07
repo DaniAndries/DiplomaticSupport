@@ -1,8 +1,8 @@
 import random, time
 from textblob import TextBlob
-from Participante import Participante
-from Periodistas import Periodistas
-from Negociaciones import Negociaciones
+from participante import Participante
+from periodistas import Periodistas
+from negociaciones import Negociaciones
 from deep_translator import GoogleTranslator
 from prettytable import PrettyTable, TableStyle
 from logger_config import setup_logger
@@ -15,7 +15,7 @@ table.set_style(TableStyle.ORGMODE)
 # table.field_names = ["Nombre", "Confianza"]
 table.field_names = [
     "Ronda", "País 1", "Confianza País 1", "País 2", "Confianza País 2",
-    "Acción País 1", "Acción País 2", "Confianza Total"
+    "Acción País 1", "Acción País 2"
 ]
 
 table.align["Ronda"] = "c"
@@ -25,7 +25,7 @@ table.align["País 2"] = "l"
 table.align["Confianza País 2"] = "c"
 table.align["Acción País 1"] = "l"
 table.align["Acción País 2"] = "l"
-table.align["Confianza Total"] = "c"
+
 rondas = 0
 
 # def actualizar_tabla(pais: str, confianza: float):
@@ -35,11 +35,11 @@ rondas = 0
 #             return
 #     table.add_row([pais, confianza])
 
-def actualizar_tabla(ronda, pais1, confianza1, pais2, confianza2, accion1, accion2, confianza_total):
+def actualizar_tabla(ronda, pais1: Participante ,pais2: Participante, accion1, accion2):
     table.add_row([
-        ronda, pais1, confianza1, pais2, confianza2, accion1, accion2, confianza_total
+        ronda, pais1.pais, pais1.confianza, pais2.pais, pais2.confianza, accion1, accion2
     ])
-    
+
 # Funcion principal del programa
 def main():
     logger.info("--------------------------Iniciando programa--------------------------")    
@@ -51,20 +51,17 @@ def iniciar_negociaciones():
     # Se crean los dos paises
     pais1 = Participante(Participante.iniciarPaises(), Participante.confianzaPaises())
     #print(pais1)
-    actualizar_tabla(pais1.pais, pais1.confianza)
     logger.info("Inicializando País 2")
     pais2 = Participante(Participante.iniciarPaises(), Participante.confianzaPaises())
     #print(pais2)
-    actualizar_tabla(pais2.pais, pais2.confianza)
     try:
         # Durante 4 vueltas no se van a hacer preguntas
         for i in range(4):
             if (pais1.confianza > 80 and pais2.confianza > 80) or (pais1.confianza < 20 or pais2.confianza < 20):
-                actualizar_tabla(pais1.pais, pais1.confianza) and actualizar_tabla(pais2.pais, pais2.confianza)
                 print(table)
                 raise Warning("Confianza máxima alcanzada, acuerdo completado")
 
-            negociaciones(pais1, pais2, False, rondas)
+            negociaciones(pais1, pais2, False)
             time.sleep(1)
 
         logger.info("A partir de ahora responderemos a las posibles preguntas y al final de cada reunión")
@@ -77,9 +74,8 @@ def iniciar_negociaciones():
         logger.info(warning)
         print(warning)
 # Se hace que cada pais aleatoriamente haga una accion aleatoria
-def negociaciones(pais1: Participante, pais2: Participante, preguntas: bool, rondas: int):
+def negociaciones(pais1: Participante, pais2: Participante, preguntas: bool):
     try:
-        print(table)
         elegirPais = random.randrange(2)
         if elegirPais == 0:
             tomar_acciones(pais1)
@@ -90,8 +86,13 @@ def negociaciones(pais1: Participante, pais2: Participante, preguntas: bool, ron
         if numero < 50 and preguntas:
             entrevista(pais1, pais2)
         rondas+=1
+        actualizar_tabla(rondas, pais1, pais2, accion1, accion2)
+        print(table)
     except Warning as warning:
         raise warning
+
+accion1 = ""
+accion2 = ""
 
 # Se hacen 3 apartados con numeros aleatorios
 def tomar_acciones(pais:Participante):
@@ -101,25 +102,23 @@ def tomar_acciones(pais:Participante):
         if accion < 50:
             Negociaciones.exigir(pais)
             logger.info(f"{pais.pais} ha hecho una exigencia y pierde confianza ahora tiene {pais.confianza}")
-            actualizar_tabla(pais.pais, pais.confianza)
+            accion1 = "Exigir"
         # En el segundo se hara ceder 
         elif accion > 50 and accion < 99:
             Negociaciones.ceder(pais)
             logger.info(f"{pais.pais} ha cedido ante una exigencia y gana confianza ahora tiene {pais.confianza}")
-            actualizar_tabla(pais.pais, pais.confianza)
+            accion1 = "Ceder"
         # En el ultimo salir que es el que menos porcentaje de salir tiene
         else:
-            #Se retira de las negociaciones y finalioza el programa
+            #Se retira de las negociaciones y finaliza el programa
             pais.confianza = 0
             logger.info(f"{pais.pais} ha salido y pierde toda su confianza ahora tiene {pais.confianza}")
             print( f"{pais.pais} ha salido y pierde toda su confianza ahora tiene {pais.confianza}")
-            actualizar_tabla(pais.pais ,pais.confianza)
             print(table)
             Negociaciones.salir(pais)
     except Warning as warning:
         raise warning
-    actualizar_tabla(pais.pais, pais.confianza)
-
+    
 # Para ver a que pais van dirigidas las preguntas
 def entrevista(pais1: Participante, pais2: Participante):   
     try:

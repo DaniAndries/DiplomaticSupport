@@ -1,5 +1,5 @@
 import random, json
-from Entrenamiento import entrenamiento 
+from entrenamiento import entrenamiento 
 from logger_config import setup_logger
 logger = setup_logger()
 
