@@ -51,7 +51,7 @@ pip install -r requirements.txt
 Para iniciar la simulación:
 
 ```bash
-python simulador.py
+python app.py
 ```
 
 La interfaz te guiará paso a paso en la configuración de:
