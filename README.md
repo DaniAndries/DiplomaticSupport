@@ -63,14 +63,14 @@ La interfaz te guiará paso a paso en la configuración de:
 
 Durante la simulación, se genera una tabla dinámica que muestra el progreso de las negociaciones:
 
-| Ronda | País 1 | Confianza País 1 | País 2  | Confianza País 2 | Acción País 1 | Acción País 2 | Confianza Total |
-|-------|--------|------------------|---------|------------------|---------------|---------------|-----------------|
-| 1     | EE.UU. | 75               | Ucrania | 65               | Compromiso    | Exigir más    | 70              |
-| 2     | EE.UU. | 70               | Ucrania | 70               | Exigir más    | Compromiso    | 70              |
-| 3     | EE.UU. | 65               | Ucrania | 75               | Compromiso    | Compromiso    | 70              |
-| 4     | EE.UU. | 70               | Ucrania | 80               | Compromiso    | Compromiso    | 75              |
-| 5     | EE.UU. | 75               | Ucrania | 85               | Compromiso    | Compromiso    | 80              |
-| Final | -      | **¡Acuerdo alcanzado!** | - | -               | -             | -             | -               |
+| Ronda | País 1 | Confianza País 1 | País 2  | Confianza País 2 | Acción País 1 | Acción País 2 |
+|-------|--------|------------------|---------|------------------|---------------|---------------|
+| 1     | EE.UU. | 75               | Ucrania | 65               | Compromiso    | Exigir más    |
+| 2     | EE.UU. | 70               | Ucrania | 70               | Exigir más    | Compromiso    |
+| 3     | EE.UU. | 65               | Ucrania | 75               | Compromiso    | Compromiso    |
+| 4     | EE.UU. | 70               | Ucrania | 80               | Compromiso    | Compromiso    |
+| 5     | EE.UU. | 75               | Ucrania | 85               | Compromiso    | Compromiso    |
+| Final | -      | **¡Acuerdo alcanzado!** | - | -               | -             | -             |
 
 ### 🎭 **Escenario de intervención periodística:**
 
