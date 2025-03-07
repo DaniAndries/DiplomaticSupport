@@ -27,46 +27,42 @@ Este proyecto es una simulación de negociaciones entre dos países (EE.UU. y Uc
 
 ## **Instalación**
 
-1. Clona este repositorio a tu máquina local:
+1. Clona este repositorio a tu máquina local.
 
-```bash
-git clone https://github.com/tu-usuario/negociaciones-internacionales.git
-Navega al directorio del proyecto:
-bash
-Copiar
-Editar
-cd negociaciones-internacionales
-Instala las dependencias necesarias:
-bash
-Copiar
-Editar
-pip install -r requirements.txt
-Uso
+2. Navega al directorio del proyecto.
+
+3. Instala las dependencias necesarias.
+
+## **Uso**
+
 Para iniciar la simulación, simplemente ejecuta el siguiente comando:
 
-bash
-Copiar
-Editar
-python simulador.py
 Durante la ejecución, el programa te guiará por el proceso de selección de países y mostrará los resultados de las negociaciones en formato de tabla. A medida que avance la negociación, verás cómo cambian los niveles de confianza entre las partes y cómo la intervención de la periodista afecta el desarrollo del proceso.
 
-Ejemplo de Salida
+## **Ejemplo de Salida**
+
 Durante la simulación, se generará una tabla que muestra el estado actual de la negociación. Un ejemplo podría verse así:
 
-Ronda	País 1	Confianza País 1	País 2	Confianza País 2	Acción País 1	Acción País 2	Confianza Total
-1	EE.UU.	75	Ucrania	65	Compromiso	Exigir más	70
-2	EE.UU.	70	Ucrania	60	Exigir más	Compromiso	65
-3	EE.UU.	60	Ucrania	50	Abandonar		-
+| Ronda | País 1 | Confianza País 1 | País 2  | Confianza País 2 | Acción País 1 | Acción País 2 | Confianza Total |
+|-------|--------|------------------|---------|------------------|---------------|---------------|-----------------|
+| 1     | EE.UU. | 75               | Ucrania | 65               | Compromiso    | Exigir más    | 70              |
+| 2     | EE.UU. | 70               | Ucrania | 60               | Exigir más    | Compromiso    | 65              |
+| 3     | EE.UU. | 60               | Ucrania | 50               | Abandonar     |               | -               |
+
 Si la periodista interviene:
 
-Pregunta: "¿Qué opinan sobre la vestimenta del otro?"
-Si uno de los países responde agresivamente, la confianza disminuiría.
-Contribuciones
+- Pregunta: "¿Qué opinan sobre la vestimenta del otro?"
+- Si uno de los países responde agresivamente, la confianza disminuiría.
+
+## **Contribuciones**
+
 Si deseas contribuir al proyecto, por favor sigue estos pasos:
 
-Haz un fork del repositorio.
-Crea una nueva rama para tu característica o arreglo de bug.
-Realiza tus cambios y prueba el código.
-Envía un pull request describiendo tus cambios.
-Licencia
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
+1. Haz un fork del repositorio.
+2. Crea una nueva rama para tu característica o arreglo de bug.
+3. Realiza tus cambios y prueba el código.
+4. Envía un pull request describiendo tus cambios.
+
+## **Licencia**
+
+Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
