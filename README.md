@@ -2,7 +2,7 @@
 
 ¡Bienvenido al **Simulador de Negociaciones Internacionales**! Este proyecto es una simulación de negociaciones entre dos países (EE.UU. y Ucrania o España). Cada parte tiene un nivel de confianza inicial y puede realizar diversas acciones en cada ronda de negociación. Durante el proceso, una **periodista** aparece inesperadamente y hace preguntas aleatorias, lo que puede influir en el desarrollo de la negociación. ¡Prepárate para sumergirte en un juego de estrategia y diplomacia! 🕹️🤝
 
-![Imagen simulación](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzgxcmJ5a3NrbWh3d3ppZjF5Znc0cWszZDA1Zmo3ZWQyZm5saHU2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzgxcmJ5a3NrbWh3d3ppZjF5Znc0cWszZDA1Zmo3ZWQyZm5saHU2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Imagen simulación" width="300" height="200" style="display: block; margin-left: auto; margin-right: auto;">
 
 ## **Características** 📜
 
