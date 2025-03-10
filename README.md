@@ -48,8 +48,7 @@ pip install -r requirements.txt
 
 ## 🚀 **Instrucciones de Uso**
 
-Para iniciar la simulación:
-
+Para iniciar la simulación navega dentro del directorio del proyecto usando la terminal y ejecuta:
 ```bash
 python app.py
 ```
