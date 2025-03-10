@@ -5,6 +5,12 @@ from periodistas import Periodistas
 from negociaciones import Negociaciones
 from deep_translator import GoogleTranslator
 from prettytable.colortable import ColorTable, Themes
+import nltk
+
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download('punkt')
 
 translator = GoogleTranslator(source="auto", target="es")
 import logger as R 
