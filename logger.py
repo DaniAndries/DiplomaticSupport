@@ -5,6 +5,7 @@ from os import path
 import sys, pathlib
 import logging
 import logging.config
+
 from colorlog import ColoredFormatter
 
 def setup_logger():

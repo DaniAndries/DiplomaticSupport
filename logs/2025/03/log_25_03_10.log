@@ -1,0 +1,45 @@
+2025/03/10 09:20:26 | --------------------------Iniciando programa--------------------------
+2025/03/10 09:20:26 | Inicializando Pais 1
+2025/03/10 09:20:26 | Inicializando Pais 2
+2025/03/10 09:20:26 | EEUU ha cedido ante una exigencia y ESPAÑA gana confianza ahora tiene 62
+2025/03/10 09:20:27 | EEUU ha hecho una exigencia y ESPAÑA pierde confianza ahora tiene 57
+2025/03/10 09:20:28 | EEUU ha cedido ante una exigencia y ESPAÑA gana confianza ahora tiene 62
+2025/03/10 09:20:29 | EEUU ha cedido ante una exigencia y ESPAÑA gana confianza ahora tiene 67
+2025/03/10 09:20:30 | A partir de ahora responderemos a las posibles preguntas y al final de cada reunión
+2025/03/10 09:20:30 | ESPAÑA ha hecho una exigencia y EEUU pierde confianza ahora tiene 39
+2025/03/10 09:20:31 | ESPAÑA ha cedido ante una exigencia y EEUU gana confianza ahora tiene 44
+2025/03/10 09:25:11 | --------------------------Iniciando programa--------------------------
+2025/03/10 09:25:11 | Inicializando Pais 1
+2025/03/10 09:25:11 | Inicializando Pais 2
+2025/03/10 09:25:11 | UCRANIA ha hecho una exigencia y ESPAÑA pierde confianza ahora tiene 42
+2025/03/10 09:25:12 | ESPAÑA ha hecho una exigencia y UCRANIA pierde confianza ahora tiene 63
+2025/03/10 09:25:13 | UCRANIA ha cedido ante una exigencia y ESPAÑA gana confianza ahora tiene 47
+2025/03/10 09:25:57 | --------------------------Iniciando programa--------------------------
+2025/03/10 09:25:57 | Inicializando Pais 1
+2025/03/10 09:25:57 | Inicializando Pais 2
+2025/03/10 09:25:57 | UCRANIA ha hecho una exigencia y EEUU pierde confianza ahora tiene 62
+2025/03/10 09:26:02 | --------------------------Iniciando programa--------------------------
+2025/03/10 09:26:02 | Inicializando Pais 1
+2025/03/10 09:26:02 | Inicializando Pais 2
+2025/03/10 09:26:02 | UCRANIA ha hecho una exigencia y EEUU pierde confianza ahora tiene 65
+2025/03/10 09:26:03 | EEUU ha cedido ante una exigencia y UCRANIA gana confianza ahora tiene 51
+2025/03/10 09:26:04 | UCRANIA ha hecho una exigencia y EEUU pierde confianza ahora tiene 60
+2025/03/10 09:26:05 | EEUU ha cedido ante una exigencia y UCRANIA gana confianza ahora tiene 56
+2025/03/10 09:26:06 | A partir de ahora responderemos a las posibles preguntas y al final de cada reunión
+2025/03/10 09:26:06 | UCRANIA ha hecho una exigencia y EEUU pierde confianza ahora tiene 55
+2025/03/10 09:26:53 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/10 09:26:53 | https://translate.google.com:443 "GET /m?tl=en&sl=auto&q=%26+C%3A%2FUsers%2Fusuario%2FDocuments%2FGitHub%2FDiplomaticSupport%2F.venv%2FScripts%2Fpython.exe+c%3A%2FUsers%2Fusuario%2FDocuments%2FGitHub%2FDiplomaticSupport%2Fapp.py HTTP/1.1" 200 None
+2025/03/10 09:26:54 | La Razón pregunta: & C:/Users/usuario/Documents/GitHub/DiplomaticSupport/.venv/Scripts/python.exe c:/Users/usuario/Documents/GitHub/DiplomaticSupport/app.py
+2025/03/10 09:26:54 | EEUU responde: There were disagreements, sure. But in the end, it wasn't that important. What matters is that it got resolved.
+2025/03/10 09:26:54 | Starting new HTTPS connection (1): translate.google.com:443
+2025/03/10 09:26:54 | https://translate.google.com:443 "GET /m?tl=es&sl=auto&q=There+were+disagreements%2C+sure.+But+in+the+end%2C+it+wasn%27t+that+important.+What+matters+is+that+it+got+resolved. HTTP/1.1" 200 None
+2025/03/10 09:26:55 | EEUU ha cedido ante una exigencia y ESPAÑA gana confianza ahora tiene 72
+2025/03/10 09:31:48 | --------------------------Iniciando programa--------------------------
+2025/03/10 09:31:48 | Inicializando Pais 1
+2025/03/10 09:31:48 | Inicializando Pais 2
+2025/03/10 09:31:48 | UCRANIA ha hecho una exigencia y ESPAÑA pierde confianza ahora tiene 44
+2025/03/10 09:31:49 | UCRANIA ha hecho una exigencia y ESPAÑA pierde confianza ahora tiene 39
+2025/03/10 09:31:50 | UCRANIA ha cedido ante una exigencia y ESPAÑA gana confianza ahora tiene 44
+2025/03/10 09:31:51 | ESPAÑA ha hecho una exigencia y UCRANIA pierde confianza ahora tiene 57
+2025/03/10 09:31:52 | A partir de ahora responderemos a las posibles preguntas y al final de cada reunión
+2025/03/10 09:31:52 | ESPAÑA ha cedido ante una exigencia y UCRANIA gana confianza ahora tiene 62
