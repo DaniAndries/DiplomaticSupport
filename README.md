@@ -103,6 +103,12 @@ Durante la simulación, se genera una tabla dinámica que muestra el progreso de
 - Mejoras en la interfaz gráfica
 - Exportación de resultados en formatos adicionales
 
+## 🤝 Colaboradores
+Este proyecto ha sido desarrollado en colaboración con:
+
+- [joseangel109](https://github.com/joseangel109)
+- [DaniAndries](https://github.com/DaniAndries)
+
 ## 📄 **Licencia**
 
 Este proyecto está licenciado bajo la **Licencia MIT** - consulta el archivo [LICENSE](LICENSE) para más detalles.
