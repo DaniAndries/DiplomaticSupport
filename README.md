@@ -106,7 +106,7 @@ Durante la simulación, se genera una tabla dinámica que muestra el progreso de
 ## 🤝 Colaboradores
 Este proyecto ha sido desarrollado en colaboración con:
 
-- [joseangel109](https://github.com/JoseAngelHub)
+- [JoseAngelHub](https://github.com/JoseAngelHub)
 - [DaniAndries](https://github.com/DaniAndries)
 
 ## 📄 **Licencia**
